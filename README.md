@@ -21,7 +21,7 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-![sample image](Item Fat Content vs Item Weight.png)
+(Item Fat Content vs Item Weight.png)
 
 > Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
 
