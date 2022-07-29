@@ -1,4 +1,4 @@
-# Sales Prediction Project
+# Sales Prediction 
 ## Subtitle describing the analysis 
 
 **Author**: Larson Bodden
