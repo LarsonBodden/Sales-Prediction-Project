@@ -30,11 +30,8 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Model
 
-Describe your final model
+Our random forest performed the same as the train data. It can predict 100% of our training data.
 
-Report the most important metrics
-
-Refer to the metrics to describe how well the model would solve the business problem
 
 ## Recommendations:
 
