@@ -5,7 +5,7 @@
 
 ### Business problem:
 
-Here is where you state the business problem you were trying to solve
+ Help the retailer understand the properties of products and outlets that play crucial roles in increasing sales
 
 
 ### Data:
