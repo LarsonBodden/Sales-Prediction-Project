@@ -14,7 +14,6 @@ Data can include source and high-level description (e.g. # obs)
 
 ## Methods
 - Data preparation steps with explanation and justification for choices
-- 
 
 ## Results
 
@@ -24,7 +23,7 @@ Data can include source and high-level description (e.g. # obs)
 #### Visual 1 Title
 ![sample image](project1_sample_image.png)
 
-> Sentence about visualization.
+> Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
 
 #### Visual 2 Title
 
