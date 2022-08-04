@@ -21,7 +21,8 @@ Data can include source and high-level description (e.g. # obs)
 
 
 #### Visual 1 Title
-(Item Fat Content vs Item Weight.png)https://github.com/LarsonBodden/Sales-predictions/blob/96ffe291d5dab65c349503b3833068003c82406f/Item%20Fat%20Content%20vs%20Item%20Weight.png
+
+![Item Fat Content vs Item Weight](https://user-images.githubusercontent.com/107776771/182735938-08c8cd4d-df68-4568-bd29-3960175a056c.png)
 
 > Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
 
