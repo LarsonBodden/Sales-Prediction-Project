@@ -20,7 +20,7 @@ Data can include source and high-level description (e.g. # obs)
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
+#### Item Fat Content Vs Item Weight
 
 ![Item Fat Content vs Item Weight](https://user-images.githubusercontent.com/107776771/182735938-08c8cd4d-df68-4568-bd29-3960175a056c.png)
 
