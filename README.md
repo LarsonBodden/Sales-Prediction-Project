@@ -1,5 +1,4 @@
 # Sales Prediction 
-## Subtitle describing the analysis 
 
 **Author**: Larson Bodden
 **Email**: Larsonobodden@gmail.com
@@ -26,7 +25,11 @@ Data can include source and high-level description (e.g. # obs)
 
 > Based on the visualization Low Fat has a higher Item Weight than Regular Fat Content. 
 
-#### Visual 2 Title
+#### Item Fat Content and Item Weight By Item Type
+
+![download](https://user-images.githubusercontent.com/107776771/182736380-edf2dbbe-097a-41ee-8500-66ad40aa45b5.png)
+
+> Based on the visualization Item weight has slightly decreased as the years go on and Item MRP steadly flucates from 1985 to 1997 but dips up and down go into to 2010.
 
 ## Model
 
