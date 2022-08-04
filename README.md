@@ -2,6 +2,8 @@
 ## Subtitle describing the analysis 
 
 **Author**: Larson Bodden
+**Email**: Larsonobodden@gmail.com
+**Phone Number**: 917-736-8267
 
 ### Business problem:
 
@@ -16,8 +18,6 @@ Data can include source and high-level description (e.g. # obs)
 - Data preparation steps with explanation and justification for choices
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
 
 
 #### Item Fat Content Vs Item Weight
