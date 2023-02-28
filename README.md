@@ -2,9 +2,9 @@
  The Big Mart Sales Practice Problem is an exercise that is part of Coding Dojo: Data Science Bootcamp. The goal of this is to help the retailer understand     the properties of products and outlets that play crucial roles in increasing sales.
 
 **Author**: 
- Name: Larson Bodden
- Email: Larsonobodden@gmail.com
- Phone Number: 917-736-8267
+-  Name: Larson Bodden
+-  Email: Larsonobodden@gmail.com
+-  Phone Number: 917-736-8267
 
 ### Business problem:
 
