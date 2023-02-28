@@ -1,50 +1,49 @@
 # Sales Prediction 
  The Big Mart Sales Practice Problem is an exercise that is part of Coding Dojo: Data Science Bootcamp. The goal of this is to help the retailer understand     the properties of products and outlets that play crucial roles in increasing sales.
 
-**Author**: 
+Author: 
 -  Name: Larson Bodden
 -  Email: Larsonobodden@gmail.com
 -  Phone Number: 917-736-8267
 
 ### Business problem:
 
- Objective:
+Objective:
 
  - The goal of this exercise is to help the retailer (Big Mart) to understand the properties of products and outlets that play crucial roles in predicting sales for 2023.
 
 
 Scope:
 
-Our study consists of two parts. The first one is where we developed a visual analysis in order to understand the current situation of the sales, focused on how the visibility index could affect the sales performance.
-In Part II, we prepared our data for Machine Learning, evaluating two regression methods to predict the sales for 2023.
+- Our study consists of two parts. The first one is where we developed a visual analysis in order to understand the current situation of the sales, focused on how the visibility index could affect the sales performance.
+- In Part II, we prepared our data for Machine Learning, evaluating two regression methods to predict the sales for 2023.
+
 Dataset:
 
-The data set can be found here.
-In context (as is reported in Part I):
-We have three variables that we consider that would affect the sales volume (Variables Type A):
-Item_Visibility.
-Item_Type.
-Item_MRP.
-We identified three variables that could affect the sales behavior (Variables Type B):
+- We have three variables that we consider that would affect the sales volume (Variables Type A):
+  - Item_Visibility.
+  - Item_Type.
+  - Item_MRP.
 
-Outlet_Size.
-Outlet_Location_Type.
-Outlet_Type.
-We are going to work with the variables described above to compare their relationship with Item_Outlet_Sales, our target.
+- We identified three variables that could affect the sales behavior (Variables Type B):
+  - Outlet_Size.
+  - Outlet_Location_Type.
+  - Outlet_Type.
 
-For our Machine Learning model:
+- We are going to work with the variables described above to compare their relationship with Item_Outlet_Sales, our target.
 
-Target (y):
-Item_Outlet_Sales.
-Features (X):
-Numerical:
-Item_Visibility.
-Item_MRP.
-Categorical:
-Item_Type.
-Outlet_Size.
-Outlet_Location_Type.
-Outlet_Type.
+- For our Machine Learning model:
+  - Target (y):
+    - Item_Outlet_Sales.
+  - Features (X):
+    - Numerical:
+    - Item_Visibility.
+    - Item_MRP.
+- Categorical:
+    - Item_Type.
+    - Outlet_Size.
+    - Outlet_Location_Type.
+    - Outlet_Type.
 
 ## Results
 
