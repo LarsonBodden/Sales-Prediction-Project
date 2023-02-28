@@ -42,15 +42,21 @@ Our random forest performed the same as the train data. It can predict 100% of o
 
 ## Recommendations:
 
-I would recomend our random forest model as it performed better on the r2 score with no tuning compared to our linear model which was also un-tuned. Our random forest was able to predict 100% of the training data.
+- For Part I:
+  - As Section 8.2.1. shows in the notebook, we recommend finishing the code in order to determine how much the visibility index increase per store and product type. That way our recommendation would be more realistic than assuming the index increase 20% in total.
+  - After the modification, is important to check the Pareto again in order to keep the focus point displayed throughout the case study.
+- For Part II:
+  - Append the NumPy Array (predicted values) to the original dataset to compare and evaluate how much the sales would be in 2023.
+  - Make another visual analysis in order to manage the new insights.
+  - Create a new simulation including the cost of the visibility improvement, where maybe not all product types require the improvement after the append.
 
 
-## Limitations & Next Steps
+## Limitations 
 
-More of your own text here
-
-
-### For further information
+-  Not having access to the data administrator made us infer and play with the data in a way that maybe is not factible.
+-  One of the biggest assumptions is how the visibility index works.
 
 
-For any additional questions, please contact **email**
+## For further information
+
+- For any additional questions, please contact **email**
